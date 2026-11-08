@@ -1,0 +1,1 @@
+import{H as e,O as t,Y as n,gt as r,k as i,q as a,x as o,y as s}from"../chunks/D4Ifx-M9.js";import"../chunks/xihTtKlq.js";var c=r({ssr:()=>!1});function l(r,c){var l=i();s(`1sqxkyh`,t=>{e(()=>{a.title=`Pile`})}),o(n(l),()=>c.children),t(r,l)}export{l as component,c as universal};
